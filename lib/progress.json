@@ -1,0 +1,13 @@
+{
+    "level_done": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": false
+    },
+    "sound_on": true,
+    "music_on": false,
+    "high_score": 1009
+}
