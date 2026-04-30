@@ -1,4 +1,4 @@
-# Trần Văn Bằng - 24IT017
+# Trần Văn Bằng
 ## 🎮 2D Game Project - Python (Pygame)
 
 ---
@@ -34,7 +34,7 @@ Chạy game:
 python src/main.py
 3. Điều khiển
 SPACE: Nhảy
-R: Chơi lại
+WADS: Di chuyển
 ESC: Thoát game
 🧰 Công nghệ sử dụng
 Python 3.x
